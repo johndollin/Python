@@ -1,2 +1,2 @@
 language = "Bash"
-run = "python ./HelloWorld/HelloWorld.py"
+run = "python ./Neural-Network-Projects-with-Python/Chapter01/pandas_chapter1.py"
